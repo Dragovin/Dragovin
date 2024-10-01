@@ -1,8 +1,14 @@
-<h1 align="center">Wasssaaaa, I'm Drago </h1>
+<h1 align="center">Wasssaaaa, I'm Drago</h1>
 
 <p align="center">
-  <b> Welcome to my GitHub profile dudes </b> <br>
+  <b>Welcome to my GitHub profile dudes</b> <br>
   I'm not exactly a software engineer or involved in coding much, but I'm still very passionate about technology, and I have a knack for computer hardware.
+</p>
+
+<p align="center">
+  <a href='https://postimg.cc/fJ6NC0N9' target='_blank'>
+    <img src='https://i.postimg.cc/fJ6NC0N9/fast-slow-1727757594474.gif' alt='Fast Slow Animation' width="300" />
+  </a>
 </p>
 
 ---
@@ -12,7 +18,7 @@
 - 🔭 I don't have many passion projects, but I'm just living life.
 - 🌱 I’m learning more about **motherboard components and how they work together and individually**.
 - 📫 How to reach me: **nothinganonymous584@gmail.com**.
-- 🎮 I love video games, Rise Of Kingdoms, Call of Duty, Mortal Kombat, mostly Rise of Kingdoms because I'm a bit of a history nerd
+- 🎮 I love video games, Rise Of Kingdoms, Call of Duty, Mortal Kombat, mostly Rise of Kingdoms because I'm a bit of a history nerd.
 
 <p align="center">
   <a href='https://postimg.cc/hzGtcj9S' target='_blank'>
